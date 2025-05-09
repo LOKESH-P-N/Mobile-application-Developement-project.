@@ -229,7 +229,7 @@ _As per the Rubric, no third party library is used for loading images._
 ## License
 
 ```
-Copyright 2019 Kaushik N. Sanji
+Copyright 2023 Lokesh
 
 Licensed under the Apache License, Version 2.0 (the "License"); 
 you may not use this file except in compliance with the License. 
