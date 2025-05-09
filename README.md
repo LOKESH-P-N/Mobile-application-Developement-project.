@@ -225,23 +225,6 @@ _As per the Rubric, no third party library is used for loading images._
 ![review](https://user-images.githubusercontent.com/26028981/51263273-edd0ea00-19d9-11e9-837c-7ceb4aefb8c0.png)
 
 ---
-
-## License
-
-```
-Copyright 2023 Lokesh
-
-Licensed under the Apache License, Version 2.0 (the "License"); 
-you may not use this file except in compliance with the License. 
-You may obtain a copy of the License at
-
-   http://www.apache.org/licenses/LICENSE-2.0
-   
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
 ```
 
 <!-- Reference Style Links are to be placed after this -->
